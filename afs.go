@@ -249,7 +249,7 @@ import "fmt"
 			{8},
 		})
 	}
-*/
+
 package main
 
 import "fmt"
@@ -290,3 +290,4 @@ func printCostReport(costCalculator func(string) int, message string) {
 	fmt.Printf(`Message: "%s" Cost: %v cents`, message, cost)
 	fmt.Println()
 }
+*/

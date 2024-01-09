@@ -292,7 +292,6 @@ func main() {
 	test(10, 10)
 	test(15, 15)
 }
-*/
 
 package main
 
@@ -332,3 +331,4 @@ func main() {
 	message = []string{"what", "the", "shoot", "I", "hate", "that", "crap"}
 	test(message, badWords)
 }
+*/
